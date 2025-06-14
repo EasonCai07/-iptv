@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 group-title="[英语] Canales Ingleses", Canales Ingleses
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+#EXTINF:-1 group-title="[英语] Canales Ingleses", London Live | HD
+
+#*****************************
+#*****************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opUQdHx.jpg" group-title="Canales Italianos", Canales Italianos
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
+#EXTINF:-1 group-title="[日语] Canales Japoneses", Shop Channel | HD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="[日语] Canales Japoneses", ???? (Japanese shopping1) | SD
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="[日语] Canales Japoneses", NTV News24 | SD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", QVC JP | SD
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 group-title="[日语] Canales Japoneses", Japanet Channel DX | SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uAyVuO.png" group-title="Canales Japoneses", NTV News 24 | SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9LlnBAJ.png" group-title="Canales Japoneses", Family Gekijyo | SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9H6vQWX.png" group-title="Canales Japoneses", History Japan | SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hPntkqP.jpg" group-title="Canales Japoneses", Eisei Gekijo | SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o1ukkGJ.png" group-title="Canales Japoneses", Nihon Eiga TV | SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sxJRoLG.gif" group-title="Canales Japoneses", Cinefil WOWOW | SD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8crfd4t.jpg" group-title="Canales Japoneses", TV Asahi | SD
+rtmp://mov8.mov3.co/live//main
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", CGN | SD
+ttp://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/chunklist_w2062741319.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", GSTV | SD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", TBS News | SD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", Narita Airport | SD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", Weather News | SD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canales Japoneses", ????? (Japanet) | SD
+
+#*****************************
+#*****************************
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/udVoD65.png" group-title="Canales Koreanos", Canales Koreanos
+https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/iPTV-FREE-LIST/refs/heads/master/Imagenes/AfOPg8p.mp4
